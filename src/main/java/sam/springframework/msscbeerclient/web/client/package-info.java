@@ -1,0 +1,1 @@
+package sam.springframework.msscbeerclient.web.client;
